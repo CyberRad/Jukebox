@@ -1,0 +1,14 @@
+<Settings>
+	<MembersDatabase>
+		<server>192.168.5.106</server>
+		<database>smhack_membership</database>
+		<username>smhack</username>
+		<password></password>
+	</MembersDatabase>
+	<JukeboxDatabase>
+		<server>192.168.5.106</server>
+		<database>jukebox</database>
+		<username>jukebox</username>
+		<password></password>
+	</JukeboxDatabase>
+</Settings>

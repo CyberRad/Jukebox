@@ -1,0 +1,4 @@
+C:\Users\cbrown\Documents\Visual Studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\bin\Debug\SMHack_Jukebox.exe.config
+C:\Users\cbrown\Documents\Visual Studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\cbrown\Documents\Visual Studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\cbrown\Documents\Visual Studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Debug\SMHack_Jukebox.csproj.ResolveComReference.cache

@@ -1,0 +1,16 @@
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\bin\Release\SMHack_Jukebox.exe.config
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\SMHack_Jukebox.csproj.ResolveComReference.cache
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\bin\Release\SMHack_Jukebox.exe
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\bin\Release\SMHack_Jukebox.pdb
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\bin\Release\mysql.data.dll
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\bin\Release\Interop.WMPLib.dll
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\bin\Release\AxInterop.WMPLib.dll
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\SMHack_Jukebox.Form1.resources
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\SMHack_Jukebox.Properties.Resources.resources
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\SMHack_Jukebox.exe
+C:\Users\cbrown\documents\visual studio 2010\Projects\SMHack_Jukebox\SMHack_Jukebox\obj\x86\Release\SMHack_Jukebox.pdb
